@@ -1,0 +1,9 @@
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\bin\Debug\netstandard2.0\NoteManagementApp.Core.deps.json
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\bin\Debug\netstandard2.0\NoteManagementApp.Core.dll
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\bin\Debug\netstandard2.0\NoteManagementApp.Core.pdb
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\obj\Debug\netstandard2.0\NoteManagementApp.Core.csprojAssemblyReference.cache
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\obj\Debug\netstandard2.0\NoteManagementApp.Core.AssemblyInfoInputs.cache
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\obj\Debug\netstandard2.0\NoteManagementApp.Core.AssemblyInfo.cs
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\obj\Debug\netstandard2.0\NoteManagementApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\obj\Debug\netstandard2.0\NoteManagementApp.Core.dll
+C:\Users\thaar\source\repos\NoteManagementApp.Api\NoteManagementApp.Core\obj\Debug\netstandard2.0\NoteManagementApp.Core.pdb
